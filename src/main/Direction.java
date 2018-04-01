@@ -1,7 +1,7 @@
 package main;
 
 /**
- * Created by jodiakyulas on 6/3/18.
+ * The direction that represents Up, Down, Left, And Right
  */
 public enum Direction {
 

@@ -1,15 +1,15 @@
 package main;
 
 /**
- * Created by jodiakyulas on 6/3/18.
- */
+ * The main class of the application
+*/
 public class main {
     public static void main(String args[]) {
+        // Start Part 1
         Part1 part1 = new Part1();
         part1.start();
+        // Start Part 2
         Part2 part2 = new Part2();
-        part2.start(8, 8);
-        part2.start(10, 10);
-        part2.start(12, 12);
+        part2.start();
     }
 }

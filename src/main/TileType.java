@@ -1,7 +1,7 @@
 package main;
 
 /**
- * Created by jodiakyulas on 6/3/18.
+ * Class that represents the possible tile types.
  */
 public enum TileType {
 
